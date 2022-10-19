@@ -4,7 +4,7 @@
 ### By Chhakuli zingare
 
 
-## 🔗Live Link -: [SeeWhatYouType]()
+## 🔗Live Link -: [SeeWhatYouType](https://seewhatyoutype-by-chhakuli.netlify.app/)
  
 
 ---
